@@ -2,10 +2,10 @@
 **negrito**
 _teste 
 
-h3. ingredientes
+## Ingredientes
  -
  - -
  * 
  * 
- ## 2
+## Como fazer
  <!-- teste -->

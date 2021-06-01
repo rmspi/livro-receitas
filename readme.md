@@ -1,4 +1,5 @@
 # Livro de receitas
 
-
-* pave
+* Strogonoff
+* Pave
+* Bolo de cenoura
